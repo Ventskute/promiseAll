@@ -1,0 +1,19 @@
+{
+  "name": "promiseall",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ventskute/promiseAll.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ventskute/promiseAll/issues"
+  },
+  "homepage": "https://github.com/Ventskute/promiseAll#readme"
+}
